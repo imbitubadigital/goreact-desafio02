@@ -14,3 +14,7 @@ Conforme proposto no desafio devemos melhorar a aplicação que desenvolvemos du
 ### Confira o resultado
 
 ![Feed](/public/assets/desafio02.png)
+
+## Desafio pessoal
+
+Como desafio pessoal adicionei efeito flip ao carregar e deletar itens!
