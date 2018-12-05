@@ -1,10 +1,13 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  display: flex;
+  span{
+    display: flex;
   flex-direction: row;
   justify-content: center;
   margin-top: 50px;
+  }
+  
 `;
 
 export const Repository = styled.div`
